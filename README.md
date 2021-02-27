@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30" title="Express.js" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="30" height="30" title="React.js" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="30" title="Redux" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm.svg" alt="NPM" width="30" height="30" title="NPM" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-logo.svg" alt="npm" width="30" height="30" title="npm" />
 
 
     
