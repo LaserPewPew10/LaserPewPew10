@@ -43,7 +43,7 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LaserPewPew10&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaserPewPew10&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
