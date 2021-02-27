@@ -34,6 +34,6 @@
 
 ### ⚙️ &nbsp;Analytics
 
-[![LaserPewPew's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaserPewPew)](https://github.com/anuraghazra/github-readme-stats)
+![LaserPewPew's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaserPewPew&count_private=true)
 
 
