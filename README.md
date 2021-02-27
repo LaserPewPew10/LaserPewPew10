@@ -13,7 +13,7 @@
 
 <br />
 
-
+---
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -40,7 +40,6 @@
  
  <br />
  
- ---
 
 ### ⚙️ &nbsp;Analytics
 
