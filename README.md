@@ -10,3 +10,6 @@
 - 📄 &nbsp;Here's my [resume](https://justinramirez.vercel.app/cv) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
+
+<p align = "left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" title="JavaScript" />
