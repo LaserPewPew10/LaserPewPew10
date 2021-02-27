@@ -42,11 +42,11 @@
 
 <p align="center">
 <a href="https://github.com/LaserPew10">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaserPewPew10&show_icons=true&theme=light&line_height=27" alt="LaserPewPew10's github stats"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaserPewPew10&show_icons=true&theme=light" alt="LaserPewPew10's github stats"/>
 </a>
 
 <a href="https://github.com/LaserPewPew10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaserPewPew10&layout=compact&theme=light&hide_langs_below=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaserPewPew10&layout=compact&theme=light" />
 </a>
 </p>
 
