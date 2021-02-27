@@ -34,6 +34,6 @@
 
 ### ⚙️ &nbsp;Analytics
 
-<img align="left" alt="LaserPewPew's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LaserPewPew&show_icons=true&hide_border=true
+<img align="left" alt="LaserPewPew's GitHub Stats" src="https://github-readme-stats.LaserPewPew.vercel.app/api?username=LaserPewPewr&show_icons=true&hide_border=true" />
 
 
