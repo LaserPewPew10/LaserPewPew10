@@ -1,5 +1,7 @@
 ## 👋 &nbsp;Hi there! I'm Justin
 
+<br />
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 💡 &nbsp;I love learning to build and building to learn, especially if it means solving real-world problems. It's always great when you're able to solve that puzzle!
@@ -8,6 +10,8 @@
 - ✍️ &nbsp;In my free time, I love learning something new, cooking, or playing video games with my friends.
 - 💬 &nbsp;Feel free to reach out to me for a coffee chat (virtual or otherwise)!
 - 📄 &nbsp;Here's my [resume](https://justinramirez.vercel.app/cv) for more details about me. I'm open to feedback and suggestions!
+
+<br />
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -31,6 +35,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="30" height="30" title="Heroku" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="30" height="30" title="Visual Studio Code" />
  </p>
+ 
+ <br />
 
 ### ⚙️ &nbsp;Analytics
 
