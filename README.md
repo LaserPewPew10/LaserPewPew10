@@ -13,6 +13,8 @@
 
 <br />
 
+---
+
 ### 🛠 &nbsp;Tech Stack
 
 <p align = "left">
