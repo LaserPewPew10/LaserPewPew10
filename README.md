@@ -9,6 +9,8 @@
 - 💬 &nbsp;Feel free to reach out to me for a coffee chat (virtual or otherwise)!
 - 📄 &nbsp;Here's my [resume](https://justinramirez.vercel.app/cv) for more details about me. I'm open to feedback and suggestions!
 
+ <br />
+
 ### 🛠 &nbsp;Tech Stack
 
 <p align = "left">
@@ -32,6 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="30" height="30" title="Visual Studio Code" />
  </p>
  
+ <br />
  
 ### ⚙️ &nbsp;Analytics
 
