@@ -31,28 +31,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="30" height="30" title="Heroku" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="30" height="30" title="Visual Studio Code" />
     </p>
+ 
+### ⚙️ &nbsp;Analytics
 
-
-
-
-
-
-
-
-    
-
-    
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LaserPewPew&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaserPewPew&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
