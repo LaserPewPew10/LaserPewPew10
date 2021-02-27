@@ -34,6 +34,11 @@
 
 ### ⚙️ &nbsp;Analytics
 
-<img align="left" alt="LaserPewPew's GitHub Stats" src="https://github-readme-stats.LaserPewPew.vercel.app/api?username=LaserPewPewr&show_icons=true&hide_border=true" />
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LaserPewPew&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaserPewPew&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
 
 
