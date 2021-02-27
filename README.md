@@ -8,3 +8,5 @@
 - ✍️ &nbsp;In my free time, I love learning something new, cooking, or playing video games with my friends.
 - 💬 &nbsp;Feel free to reach out to me for a coffee chat (virtual or otherwise)!
 - 📄 &nbsp;Here's my [resume](https://justinramirez.vercel.app/cv) for more details about me. I'm open to feedback and suggestions!
+
+### 🛠 &nbsp;Tech Stack
