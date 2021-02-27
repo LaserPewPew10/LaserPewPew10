@@ -30,6 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services" width="30" height="30" title="Amazon Web Services" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="30" height="30" title="Heroku" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="30" height="30" title="Visual Studio Code" />
+    </p>
 
 
 
