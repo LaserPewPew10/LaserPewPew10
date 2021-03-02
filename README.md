@@ -6,7 +6,6 @@
 -  🎓 &nbsp;I have a BS in Mechanical Engineering. I've developed my programming knowledge by creating vairous web development applications and I supplemented that with Columbia University at New York's intensive software engineering bootcamp.
 -  🌱 &nbsp;I'm currently learning software testing. My current goals are gaining a stronger grasp of Docker and solidifying my knowledge in data structures and algorithms.
 - ✍️ &nbsp;In my free time, I love learning something new, reading, or playing video games with my friends.
-- 💬 &nbsp;Feel free to reach out to me for a coffee chat (virtual or otherwise)!
 - 📄 &nbsp;Here's my [resume](https://justinramirez.vercel.app/cv) for more details about me. I'm open to feedback and suggestions!
 
  <br />
